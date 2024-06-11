@@ -1,4 +1,4 @@
-# Spring-Data-JPA---Editora-de-Livros
+# Spring-Data-JPA-Editora-de-Livros
 Estudo do Spring Data JPA
 
 #
